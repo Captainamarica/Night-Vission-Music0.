@@ -41,7 +41,7 @@
 ## ʜᴇʀᴏᴋᴜ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
 ᴛʜᴇ ᴇᴀsʏ ᴡᴀʏ ᴛᴏ ʜᴏsᴛ ᴛʜɪs ʙᴏᴛ, ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ, ᴄʜᴀɴɢᴇ ᴛʜᴇ ᴀᴘᴘ ᴄᴏᴜɴᴛʀʏ ᴛᴏ ᴇᴜʀᴏᴘᴇ (ɪᴛ ᴡɪʟʟ ʜᴇʟᴘ ᴛᴏ ᴍᴀᴋᴇ ᴛʜᴇ ʙᴏᴛ sᴛᴀʙʟᴇ).
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy/template=https://github.com/Captainamarica/Night-Vission-Music0.)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FDARKEMPIRESL%2FDarkMusicBot&template=https://github.com/Captainamarica/Night-Vission-Music0.)
 
 
 
